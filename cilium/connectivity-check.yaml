@@ -1,4 +1,5 @@
-# https://github.com/cilium/cilium/blob/master/examples/kubernetes/connectivity-check/connectivity-check.yamlapiVersion: v1
+# https://github.com/cilium/cilium/blob/master/examples/kubernetes/connectivity-check/connectivity-check.yaml
+apiVersion: v1
 kind: Service
 metadata:
   name: echo-a
