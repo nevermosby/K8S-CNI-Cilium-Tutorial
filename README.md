@@ -3,7 +3,7 @@
 ![](./logo.png)
 
 You can find the related blog here:
-- 中文版：[wordpress]()
+- 中文版：[https://davidlovezoe.club/k8s-cni-cilium-intro](https://davidlovezoe.club/k8s-cni-cilium-intro)
 - English Version: TODO
 
 ## Installation
